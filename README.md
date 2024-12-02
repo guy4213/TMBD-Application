@@ -43,20 +43,20 @@
     <h2>Screenshots</h2>
     <p>Include screenshots or GIFs here to showcase the app's functionality and UI.</p>
    <h3>HomeScreen</h3>
-  <img src="![image] (https://github.com/user-attachments/assets/d8f606ce-792d-4753-bd26-3575dbd7e13a)"
-" alt="HomeScreen" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d8f606ce-792d-4753-bd26-3575dbd7e13a"
+"alt="HomeScreen" width="300">
   <h3>dropdown</h3>
-  <img src=" ![image](https://github.com/user-attachments/assets/2849c545-d3ce-4843-9adc-9922f61cb1d2)"
-" alt="dropdown" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2849c545-d3ce-4843-9adc-9922f61cb1d2"
+" alt="dropdown" width="300">
   <h3>Favourites</h3>
-      <img src="![image](https://github.com/user-attachments/assets/63f41e13-7c5c-483e-873a-8f59085f89f5)
-" alt="Favourites display" width="300">
+      <img src="https://github.com/user-attachments/assets/63f41e13-7c5c-483e-873a-8f59085f89f5" 
+          alt="Favourites display" width="300">
     <h3>currently broadcasted</h3>
-      <img src="![image](https://github.com/user-attachments/assets/d7947340-352b-40fb-b35e-d41682e5c50a)
-" alt="currently broadcast display" width="300">
+      <img src="https://github.com/user-attachments/assets/d7947340-352b-40fb-b35e-d41682e5c50a"
+          alt="currently broadcast display" width="300">
    <h3>movie Details</h3>
-   <img src="![image](https://github.com/user-attachments/assets/b3d0e264-4904-4214-8e57-23c84b3fbbfb)
-" alt="movie Details" width="300">
+   <img src="https://github.com/user-attachments/assets/b3d0e264-4904-4214-8e57-23c84b3fbbfb"
+       alt="movie Details" width="300">
       <h2>Contributing</h2>
     <p>Contributions are welcome! Please follow the steps below:</p>
     <ol>
